@@ -8,13 +8,11 @@ to do C# development though which is why I am learning Unity.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
--->
-- 🌱 I’m currently learning Unity
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me: jvaughan3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can talk like Donald Duck
