@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🌱 I’m currently learning Blazor
+- 🌱 I’m currently learning Moleculer and Node
 - 📫 How to reach me: jvaughan3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can talk like Donald Duck
